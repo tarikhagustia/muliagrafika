@@ -7,5 +7,6 @@ class UserController extends MX_Controller
     {
         parent::__construct();
         $this->load->module('templates');
+        modules::run('maintenance/status');
     }
 }

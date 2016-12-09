@@ -1,4 +1,4 @@
-<section class="home-section bg-dark-alfa-90 parallax-2" data-background="images/full-width-images/section-bg-4.jpg">
+<section class="home-section bg-dark-alfa-90 parallax-2" data-background="<?php echo base_url() ?>/assets/images/full-width-images/maintenance.jpg">
     <div class="js-height-full">
 
         <!-- Hero Content -->
@@ -10,15 +10,15 @@
                     <div class="hs-wrap">
 
                         <div class="hs-line-12 font-alt mb-10">
-                            Sorry
+                            MAAF
                         </div>
 
                         <div class="hs-line-6 no-transp font-alt mb-40">
-                            We are currently under construction!
+                            Kami sedang melakukan Perbaikan
                         </div>
 
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi urna, vehicula aliquam dapibus ornare, semper semper nisl.
+                            Nantikan kejutan istimewa dari kami, Berbagai produk - produk Percetakan yang berguna bagi Bisnis Anda
                         </p>
 
                     </div>

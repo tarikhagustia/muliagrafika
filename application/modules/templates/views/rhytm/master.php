@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Rhythm &mdash; One & Multi Page Creative Theme</title>
-        <meta name="description" content="">
-        <meta name="keywords" content="">
+        <title>Muliagrafika.com | Percetakan terpercaya</title>
+        <meta name="description" content="Percetakan kertas murah di jakarta barat">
+        <meta name="keywords" content="percetakan, kertas, print, desain, grafis, murah, jakarta timur, pasar baru, cetak baju , murah, berkualitas">
         <meta charset="utf-8">
-        <meta name="author" content="Roman Kirichik">
+        <meta name="author" content="Allblue Technology">
         <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
 
@@ -66,12 +66,12 @@
 
                         <!-- Copyright -->
                         <div class="footer-copy font-alt">
-                            <a href="http://themeforest.net/user/theme-guru/portfolio" target="_blank">&copy; Rhythm 2016</a>.
+                            <a href="<?php echo base_url(); ?>" target="_blank">&copy; Muliagrafika 2016</a>.
                         </div>
                         <!-- End Copyright -->
 
                         <div class="footer-made">
-                            Made with love for great people.
+                            Powered by <?php echo anchor('http://allblue.technology' , 'Allblue Technology') ?>
                         </div>
 
                     </div>

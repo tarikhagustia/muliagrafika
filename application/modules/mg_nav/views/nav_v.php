@@ -23,41 +23,38 @@
 
                         <!-- Sub Column -->
                         <li class="mn-sub-multi">
-                            <a class="mn-group-title">Multi Page</a>
+                            <a class="mn-group-title">Dashboard</a>
 
                             <ul>
                                 <li>
-                                    <a href="mp-index.html">Main Demo</a>
+                                    <a href="mp-index.html">Dashboard 1</a>
                                 </li>
                                 <li>
-                                    <a href="mp-index-01.html">Image Parallax 1</a>
+                                    <a href="mp-index-01.html">Dashboard 2</a>
                                 </li>
                                 <li>
-                                    <a href="mp-index-02.html">Image Parallax 2</a>
+                                    <a href="mp-index-03.html">Dashboard 3</a>
                                 </li>
                                 <li>
-                                    <a href="mp-index-03.html">Image Parallax 3</a>
+                                    <a href="mp-index-04.html">Dashboard 4</a>
                                 </li>
                                 <li>
-                                    <a href="mp-index-04.html">Image Parallax 4</a>
+                                    <a href="mp-index-06.html">Dashboard 5</a>
                                 </li>
                                 <li>
-                                    <a href="mp-index-06.html">Image Parallax 5</a>
+                                    <a href="mp-index-12.html">Dashboard</a>
                                 </li>
                                 <li>
-                                    <a href="mp-index-12.html">Fullwidth Image</a>
+                                    <a href="mp-index-05.html">Dashboard</a>
                                 </li>
                                 <li>
-                                    <a href="mp-index-05.html">Text Rotator</a>
+                                    <a href="mp-index-07.html">Dashboard</a>
                                 </li>
                                 <li>
-                                    <a href="mp-index-07.html">Slider Fullscreen</a>
+                                    <a href="mp-index-08.html">Dashboard</a>
                                 </li>
                                 <li>
-                                    <a href="mp-index-08.html">Slider Zoom Effect</a>
-                                </li>
-                                <li>
-                                    <a href="mp-index-09.html">Slider Fullwidth</a>
+                                    <a href="mp-index-09.html">Dashboard</a>
                                 </li>
 
 
@@ -66,7 +63,7 @@
                         </li>
                         <!-- End Sub Column -->
 
-                        <!-- Sub Column -->
+                        <!-- Sub Column 
                         <li class="mn-sub-multi">
                             <a class="mn-group-title">&nbsp;</a>
 
@@ -106,11 +103,11 @@
                                 </li>
                             </ul>
 
-                        </li>
+                        </li>-->
                         <!-- End Sub Column -->
 
 
-                        <!-- Sub Column -->
+                        <!-- Sub Column 
                         <li class="mn-sub-multi">
                             <a class="mn-group-title">One Page</a>
 
@@ -150,10 +147,10 @@
                                 </li>
                             </ul>
 
-                        </li>
+                        </li>-->
                         <!-- End Sub Column -->
 
-                        <!-- Sub Column -->
+                        <!-- Sub Column
                         <li class="mn-sub-multi">
                             <a class="mn-group-title">&nbsp;</a>
 
@@ -193,7 +190,7 @@
                                 </li>
                             </ul>
 
-                        </li>
+                        </li> -->
                         <!-- End Sub Column -->
 
                     </ul>
@@ -204,76 +201,70 @@
 
                 <!-- Item With Sub -->
                 <li>
-                    <a href="#" class="mn-has-sub">Pages <i class="fa fa-angle-down"></i></a>
+                    <a href="#" class="mn-has-sub">PRODUK<i class="fa fa-angle-down"></i></a>
 
                     <!-- Sub Multilevel -->
                     <ul class="mn-sub mn-has-multi">
 
                         <li class="mn-sub-multi">
-                            <a class="mn-group-title">Group 1</a>
+                            <a class="mn-group-title">Produk Percetakan</a>
 
                             <ul>
                                 <li>
-                                    <a href="pages-about-1.html">About Us 1</a>
+                                    <a href="pages-about-1.html">Brosur</a>
                                 </li>
                                 <li>
-                                    <a href="pages-about-2.html">About Us 2</a>
+                                    <a href="pages-about-2.html">Poster</a>
                                 </li>
                                 <li>
-                                    <a href="pages-about-3.html">About Us 3</a>
+                                    <a href="pages-about-3.html">Company Profil</a>
                                 </li>
                                 <li>
-                                    <a href="pages-services-1.html">Services 1</a>
+                                    <a href="pages-services-1.html">Paper Bag</a>
                                 </li>
                                 <li>
-                                    <a href="pages-services-2.html">Services 2</a>
+                                    <a href="pages-services-2.html">Stiker</a>
                                 </li>
                                 <li>
-                                    <a href="pages-services-3.html">Services 3</a>
+                                    <a href="pages-services-3.html">T-Shirt / Kaos</a>
                                 </li>
                                 <li>
-                                    <a href="pages-clients.html">Clients</a>
+                                    <a href="pages-clients.html">Atribut Pilkada</a>
                                 </li>
                                 <li>
-                                    <a href="pages-landing.html">Landing Page</a>
+                                    <a href="pages-landing.html">Seminar Kit</a>
                                 </li>
                             </ul>
 
                         </li>
 
                         <li class="mn-sub-multi">
-                            <a class="mn-group-title">Group 2</a>
+                            <a class="mn-group-title">Produk Lainnya</a>
 
                             <ul>
                                 <li>
-                                    <a href="pages-team-1.html">Team 1</a>
+                                    <a href="pages-team-1.html">Gantungan Kunci</a>
                                 </li>
                                 <li>
-                                    <a href="pages-team-2.html">Team 2</a>
+                                    <a href="pages-team-2.html">Ballpoint</a>
                                 </li>
                                 <li>
-                                    <a href="pages-faq-1.html">FAQ 1</a>
+                                    <a href="pages-faq-1.html">Spanduk Digital / Kain</a>
                                 </li>
                                 <li>
-                                    <a href="pages-faq-2.html">FAQ 2</a>
+                                    <a href="pages-faq-2.html">Bendera</a>
                                 </li>
                                 <li>
-                                    <a href="pages-pricing-1.html">Pricing 1</a>
+                                    <a href="pages-pricing-1.html">Souvenir</a>
                                 </li>
                                 <li>
-                                    <a href="pages-pricing-2.html">Pricing 2</a>
-                                </li>
-                                <li>
-                                    <a href="pages-contact-1.html">Contact 1</a>
-                                </li>
-                                <li>
-                                    <a href="pages-contact-2.html">Contact 2</a>
+                                    <a href="pages-contact-1.html">Site Mail</a>
                                 </li>
                             </ul>
 
                         </li>
 
-                        <li class="mn-sub-multi">
+                       <!-- <li class="mn-sub-multi">
                             <a class="mn-group-title">Group 3</a>
 
                             <ul>
@@ -303,7 +294,7 @@
                                 </li>
                             </ul>
 
-                        </li>
+                        </li> -->
 
                     </ul>
                     <!-- End Sub Multilevel -->
@@ -313,7 +304,7 @@
 
                 <!-- Item With Sub -->
                 <li>
-                    <a href="#" class="mn-has-sub">Elements <i class="fa fa-angle-down"></i></a>
+                    <a href="#" class="mn-has-sub">INFORMASI HARGA <i class="fa fa-angle-down"></i></a>
 
                     <!-- Sub Multilevel -->
                     <ul class="mn-sub mn-has-multi">
@@ -322,21 +313,21 @@
 
                             <ul>
                                 <li>
-                                    <a href="elements-accordions.html"><i class="fa fa-plus-circle fa-sm"></i> Accordions</a>
+                                    <a href="elements-accordions.html"><i class="fa fa-plus-circle fa-sm"></i> Penawaran Harga</a>
                                 </li>
                                 <li>
-                                    <a href="elements-bars.html"><i class="fa fa-tachometer fa-sm"></i> Bars (Progress)</a>
+                                    <a href="elements-bars.html"><i class="fa fa-tachometer fa-sm"></i>Cara Pemesanan </a>
                                 </li>
                                 <li>
-                                    <a href="elements-buttons.html"><i class="fa fa-link fa-sm"></i> Buttons</a>
+                                    <a href="elements-buttons.html"><i class="fa fa-link fa-sm"></i> Cara Pengiriman</a>
                                 </li>
                                 <li>
-                                    <a href="elements-features.html"><i class="fa fa-th-large fa-sm"></i> Features Box</a>
+                                    <a href="elements-features.html"><i class="fa fa-th-large fa-sm"></i> Jaminan Pelayanan</a>
                                 </li>
                                 <li>
-                                    <a href="elements-forms.html"><i class="fa fa-align-justify fa-sm"></i> Form Fields</a>
+                                    <a href="elements-forms.html"><i class="fa fa-align-justify fa-sm"></i> Waktu Pengerjaan</a>
                                 </li>
-                                <li>
+                                <!--<li>
                                     <a href="elements-grid.html"><i class="fa fa-th fa-sm"></i> Grid</a>
                                 </li>
                                 <li>
@@ -347,12 +338,12 @@
                                 </li>
                                 <li>
                                     <a href="elements-messages.html"><i class="fa fa-comment fa-sm"></i> Messages</a>
-                                </li>
+                                </li>-->
                             </ul>
 
                         </li>
 
-                        <li class="mn-sub-multi">
+                       <!-- <li class="mn-sub-multi">
 
                             <ul>
                                 <li>
@@ -383,7 +374,7 @@
                                     <a href="elements-header-white-transparent.html"><i class="fa fa-header fa-sm"></i> Header White Transp</a>
                                 </li>
                             </ul>
-                        </li>
+                        </li> -->
 
                     </ul>
                     <!-- End Sub Multilevel -->
@@ -393,34 +384,34 @@
 
                 <!-- Item With Sub -->
                 <li>
-                    <a href="#" class="mn-has-sub">Portfolio <i class="fa fa-angle-down"></i></a>
+                    <a href="#" class="mn-has-sub">PEMBAYARAN <i class="fa fa-angle-down"></i></a>
 
                     <!-- Sub -->
                     <ul class="mn-sub">
 
                         <li>
-                            <a href="#" class="mn-has-sub">Boxed <i class="fa fa-angle-right right"></i></a>
+                            <a href="#" class="mn-has-sub">Cara Pembayaran <i class="fa fa-angle-right right"></i></a>
 
                             <ul class="mn-sub">
                                 <li>
-                                    <a href="portfolio-boxed-2col.html">2 Columns</a>
+                                    <a href="portfolio-boxed-2col.html">Cash</a>
                                 </li>
                                 <li>
-                                    <a href="portfolio-boxed-3col.html">3 Columns</a>
+                                    <a href="portfolio-boxed-3col.html">COD</a>
                                 </li>
                                 <li>
-                                    <a href="portfolio-boxed-4col.html">4 Columns</a>
+                                    <a href="portfolio-boxed-4col.html">Cek</a>
                                 </li>
                                 <li>
-                                    <a href="portfolio-boxed-5col.html">5 Columns</a>
+                                    <a href="portfolio-boxed-5col.html">Transfer Bank</a>
                                 </li>
                                 <li>
-                                    <a href="portfolio-boxed-blackhover.html">Black Hovers</a>
+                                    <a href="portfolio-boxed-blackhover.html">Dp 50% dari Total Bayar </a>
                                 </li>
                             </ul>
                         </li>
 
-                        <li>
+                       <!-- <li>
                             <a href="#" class="mn-has-sub">Boxed (Gutter) <i class="fa fa-angle-right right"></i></a>
 
                             <ul class="mn-sub">
@@ -580,7 +571,7 @@
 
                         <li>
                             <a href="portfolio-promo.html">Promo</a>
-                        </li>
+                        </li>-->
 
                     </ul>
                     <!-- End Sub -->
@@ -590,30 +581,30 @@
 
                 <!-- Item With Sub -->
                 <li>
-                    <a href="#" class="mn-has-sub">Blog <i class="fa fa-angle-down"></i></a>
+                    <a href="#" class="mn-has-sub">CONTACT US <i class="fa fa-angle-down"></i></a>
 
                     <!-- Sub -->
                     <ul class="mn-sub">
 
                         <li>
-                            <a href="#" class="mn-has-sub">Classic <i class="fa fa-angle-right right"></i></a>
+                            <a href="#" class="mn-has-sub">Admin Support <i class="fa fa-angle-right right"></i></a>
 
                             <ul class="mn-sub">
                                 <li>
-                                    <a href="blog-classic-sidebar-left.html">Sidebar Left</a>
+                                    <a href="blog-classic-sidebar-left.html">Chat Admin</a>
                                 </li>
                                 <li>
-                                    <a href="blog-classic-sidebar-right.html">Sidebar Right</a>
+                                    <a href="blog-classic-sidebar-right.html">Contac Admin</a>
                                 </li>
                                 <li>
-                                    <a href="blog-classic-fullwidth.html">Fullwidth</a>
+                                    <a href="blog-classic-fullwidth.html">Emai Admin</a>
                                 </li>
                             </ul>
 
                         </li>
 
                         <li>
-                            <a href="#" class="mn-has-sub">Columns <i class="fa fa-angle-right right"></i></a>
+                            <a href="#" class="mn-has-sub">Chat Admin <i class="fa fa-angle-right right"></i></a>
 
                             <ul class="mn-sub">
                                 <li>
@@ -630,7 +621,7 @@
                         </li>
 
                         <li>
-                            <a href="#" class="mn-has-sub">Masonry <i class="fa fa-angle-right right"></i></a>
+                            <a href="#" class="mn-has-sub">Contac Admin <i class="fa fa-angle-right right"></i></a>
 
                             <ul class="mn-sub">
                                 <li>
@@ -647,7 +638,7 @@
                         </li>
 
                         <li>
-                            <a href="#" class="mn-has-sub">Single <i class="fa fa-angle-right right"></i></a>
+                            <a href="#" class="mn-has-sub">Emai Admin <i class="fa fa-angle-right right"></i></a>
 
                             <ul class="mn-sub">
                                 <li>
@@ -672,25 +663,25 @@
 
                 <!-- Item With Sub -->
                 <li>
-                    <a href="#" class="mn-has-sub">Shop <i class="fa fa-angle-down"></i></a>
+                    <a href="#" class="mn-has-sub">OUR CUSTOMER <i class="fa fa-angle-down"></i></a>
 
                     <!-- Sub -->
                     <ul class="mn-sub to-left">
 
                         <li>
-                            <a href="shop-columns-2col.html">2 Columns</a>
+                            <a href="shop-columns-2col.html">PT. Wings</a>
                         </li>
                         <li>
-                            <a href="shop-columns-3col.html">3 Columns</a>
+                            <a href="shop-columns-3col.html">PT. OT</a>
                         </li>
                         <li>
-                            <a href="shop-columns-4col.html">4 Columns</a>
+                            <a href="shop-columns-4col.html">PT. Mayora </a>
                         </li>
                         <li>
-                            <a href="shop-single.html">Single Product</a>
+                            <a href="shop-single.html">PT. Biskuit</a>
                         </li>
                         <li>
-                            <a href="shop-cart.html">Shopping Cart</a>
+                            <a href="shop-cart.html">PT. Makanan</a>
                         </li>
 
                     </ul>

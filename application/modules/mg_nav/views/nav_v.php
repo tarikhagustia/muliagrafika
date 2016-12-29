@@ -166,7 +166,7 @@
 
                             <ul>
                                 <li>
-                                    <a href="pages-about-1.html">Brosur</a>
+                                    <a href="<?php echo base_url('/brosur'); ?>">Brosur</a>
                                 </li>
                                 <li>
                                     <a href="pages-about-2.html">Poster</a>

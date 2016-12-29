@@ -15,55 +15,10 @@
             <ul class="clearlist">
 
                 <!-- Item With Sub -->
-                <li>
-                    <a href="#" class="mn-has-sub active">Home <i class="fa fa-angle-down"></i></a>
-
-                    <!-- Sub Multilevel -->
-                    <ul class="mn-sub mn-has-multi">
-
-                        <!-- Sub Column -->
-                        <li class="mn-sub-multi">
-                            <a class="mn-group-title">Dashboard</a>
-
-                            <ul>
-                                <li>
-                                    <a href="mp-index.html">Dashboard 1</a>
-                                </li>
-                                <li>
-                                    <a href="mp-index-01.html">Dashboard 2</a>
-                                </li>
-                                <li>
-                                    <a href="mp-index-03.html">Dashboard 3</a>
-                                </li>
-                                <li>
-                                    <a href="mp-index-04.html">Dashboard 4</a>
-                                </li>
-                                <li>
-                                    <a href="mp-index-06.html">Dashboard 5</a>
-                                </li>
-                                <li>
-                                    <a href="mp-index-12.html">Dashboard</a>
-                                </li>
-                                <li>
-                                    <a href="mp-index-05.html">Dashboard</a>
-                                </li>
-                                <li>
-                                    <a href="mp-index-07.html">Dashboard</a>
-                                </li>
-                                <li>
-                                    <a href="mp-index-08.html">Dashboard</a>
-                                </li>
-                                <li>
-                                    <a href="mp-index-09.html">Dashboard</a>
-                                </li>
-
-
-                            </ul>
-
-                        </li>
+                <li><a href="#about">HOME</a>
                         <!-- End Sub Column -->
 
-                        <!-- Sub Column 
+                        <!-- Sub Column
                         <li class="mn-sub-multi">
                             <a class="mn-group-title">&nbsp;</a>
 
@@ -107,7 +62,7 @@
                         <!-- End Sub Column -->
 
 
-                        <!-- Sub Column 
+                        <!-- Sub Column
                         <li class="mn-sub-multi">
                             <a class="mn-group-title">One Page</a>
 
@@ -193,7 +148,7 @@
                         </li> -->
                         <!-- End Sub Column -->
 
-                    </ul>
+
                     <!-- End Sub Multilevel -->
 
                 </li>
@@ -694,52 +649,7 @@
                 <li><a>&nbsp;</a></li>
                 <!-- End Divider -->
 
-                <!-- Search -->
-                <li>
-                    <a href="#" class="mn-has-sub"><i class="fa fa-search"></i> Search</a>
-
-                    <ul class="mn-sub">
-
-                        <li>
-                            <div class="mn-wrap">
-                                <form method="post" class="form">
-                                    <div class="search-wrap">
-                                        <button class="search-button animate" type="submit" title="Start Search">
-                                            <i class="fa fa-search"></i>
-                                        </button>
-                                        <input type="text" class="form-control search-field" placeholder="Search...">
-                                    </div>
-                                </form>
-                            </div>
-                        </li>
-
-                    </ul>
-
-                </li>
-                <!-- End Search -->
-
-                <!-- Cart -->
-                <li>
-                    <a href="#"><i class="fa fa-shopping-cart"></i> Cart(0)</a>
-                </li>
-                <!-- End Cart -->
-
-                <!-- Languages -->
-                <li>
-                    <a href="#" class="mn-has-sub">Eng <i class="fa fa-angle-down"></i></a>
-
-                    <ul class="mn-sub">
-
-                        <li><a href="">English</a></li>
-                        <li><a href="">France</a></li>
-                        <li><a href="">Germany</a></li>
-
-                    </ul>
-
-                </li>
-                <!-- End Languages -->
-
-            </ul>
+           </ul>
         </div>
         <!-- End Main Menu -->
 

@@ -10,7 +10,7 @@
                 <div class="container relative">
                     
                     <h2 class="section-title font-alt align-right mb-70 mb-sm-40">
-                        brosur & flyer
+                        Nota
                     </h2>
                     
                     <div class="section-text mb-50 mb-sm-20">

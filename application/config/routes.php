@@ -53,4 +53,14 @@ $route['default_controller'] = 'mg_dashboard/index';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
-$route['brosur'] = 'brosur/mg_brosur/index';
+$route['produk/brosur'] = 'brosur/mg_brosur/brosur';
+$route['produk/ksurat'] = 'brosur/mg_brosur/ksurat';
+$route['produk/knama'] = 'brosur/mg_brosur/knama';
+$route['produk/sajalan'] = 'brosur/mg_brosur/sajalan';
+$route['produk/kwitansi'] = 'brosur/mg_brosur/kwitansi';
+$route['produk/nota'] = 'brosur/mg_brosur/nota';
+$route['produk/kalender'] = 'brosur/mg_brosur/kalender';
+$route['produk/skit'] = 'brosur/mg_brosur/skit';
+$route['produk/yasin'] = 'brosur/mg_brosur/yasin';
+$route['produk/undangan'] = 'brosur/mg_brosur/undangan';
+$route['produk/xbanner'] = 'brosur/mg_brosur/xbanner';

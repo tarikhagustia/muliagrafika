@@ -166,25 +166,25 @@
 
                             <ul>
                                 <li>
-                                    <a href="<?php echo base_url('/brosur'); ?>">Brosur</a>
+                                    <a href="<?php echo base_url('produk/brosur'); ?>">Brosur</a>
                                 </li>
                                 <li>
-                                    <a href="pages-about-2.html">Poster</a>
+                                    <a href="<?php echo base_url('produk/ksurat'); ?>">Kop Surat</a>
                                 </li>
                                 <li>
-                                    <a href="pages-about-3.html">Company Profil</a>
+                                    <a href="<?php echo base_url('produk/knama'); ?>">Kartu nama</a>
                                 </li>
                                 <li>
-                                    <a href="pages-services-1.html">Paper Bag</a>
+                                    <a href="<?php echo base_url('produk/sajalan'); ?>">Surat Jalan</a>
                                 </li>
                                 <li>
-                                    <a href="pages-services-2.html">Stiker</a>
+                                    <a href="<?php echo base_url('produk/kwitansi'); ?>">Kwitansi</a>
                                 </li>
                                 <li>
-                                    <a href="pages-services-3.html">T-Shirt / Kaos</a>
+                                    <a href="<?php echo base_url('produk/nota'); ?>">Nota</a>
                                 </li>
                                 <li>
-                                    <a href="pages-clients.html">Atribut Pilkada</a>
+                                    <a href="<?php echo base_url('produk/kalender'); ?>">Kalender</a>
                                 </li>
                                 <li>
                                     <a href="pages-landing.html">Seminar Kit</a>
@@ -198,16 +198,16 @@
 
                             <ul>
                                 <li>
-                                    <a href="pages-team-1.html">Gantungan Kunci</a>
+                                    <a href="<?php echo base_url('produk/skit'); ?>">Stater Kit</a>
                                 </li>
                                 <li>
-                                    <a href="pages-team-2.html">Ballpoint</a>
+                                    <a href="<?php echo base_url('produk/yasin'); ?>">Yasin</a>
                                 </li>
                                 <li>
-                                    <a href="pages-faq-1.html">Spanduk Digital / Kain</a>
+                                    <a href="<?php echo base_url('produk/undangan'); ?>">Undangan</a>
                                 </li>
                                 <li>
-                                    <a href="pages-faq-2.html">Bendera</a>
+                                    <a href="<?php echo base_url('produk/xbanner'); ?>">X Banner</a>
                                 </li>
                                 <li>
                                     <a href="pages-pricing-1.html">Souvenir</a>

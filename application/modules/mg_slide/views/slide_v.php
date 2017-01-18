@@ -119,16 +119,6 @@
 
                        <div class="local-scroll">
 
-                            <a href="#about" class="btn btn-mod btn-border-w btn-medium btn-round">
-                                See More
-                            </a>
-
-                            <span>&nbsp;</span>
-
-                            <a href="pages-pricing-1.html" class="btn btn-mod btn-border-w btn-medium btn-round">
-                                Get pricing
-                            </a>
-
                         </div>
 
                     </div>

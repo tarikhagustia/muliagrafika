@@ -10,10 +10,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
 
         <!-- Favicons -->
-        <link rel="shortcut icon" href="<?php echo base_url() ?>/assets/images/favicon.png">
+        <!-- <link rel="shortcut icon" href="<?php echo base_url() ?>/assets/images/favicon.png">
         <link rel="apple-touch-icon" href="<?php echo base_url() ?>/assets/images/apple-touch-icon.png">
         <link rel="apple-touch-icon" sizes="72x72" href="<?php echo base_url() ?>/assets/images/apple-touch-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="<?php echo base_url() ?>/assets/images/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="<?php echo base_url() ?>/assets/images/apple-touch-icon-114x114.png"> -->
 
         <!-- CSS -->
         <link rel="stylesheet" href="<?php echo base_url() ?>/assets/css/bootstrap.min.css">
@@ -47,18 +47,18 @@
 
                     <!-- Footer Logo -->
                     <div class="local-scroll mb-30 wow fadeInUp" data-wow-duration="1.5s">
-                        <a href="#top"><img src="<?php echo base_url() ?>/assets/images/logo-footer.png" width="78" height="36" alt="" /></a>
+                        <a href="#top"><img src="<?php echo base_url('assets/images/logo-small.png') ?>" width="78" height="36" alt="" /></a>
                     </div>
                     <!-- End Footer Logo -->
 
                     <!-- Social Links -->
-                    <div class="footer-social-links mb-110 mb-xs-60">
+                    <!-- <div class="footer-social-links mb-110 mb-xs-60">
                         <a href="#" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
                         <a href="#" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
                         <a href="#" title="Behance" target="_blank"><i class="fa fa-behance"></i></a>
                         <a href="#" title="LinkedIn+" target="_blank"><i class="fa fa-linkedin"></i></a>
                         <a href="#" title="Pinterest" target="_blank"><i class="fa fa-pinterest"></i></a>
-                    </div>
+                    </div> -->
                     <!-- End Social Links -->
 
                     <!-- Footer Text -->

@@ -28,7 +28,7 @@
                   <p>
                     kami siap melayani anda sesuai kebutuhan jenis cetakan yg anda pesan.
                     silahkan hubungi kami : mulia graphics
-                    tlpn : 021 989 48 922 ,0852 80 910 999, 0817 889 144.
+                    tlpn : 0852 8881 3963
                   </p>
                 </div>
           </div>
@@ -90,15 +90,10 @@
                             </blockquote>
                         </div>
                         <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                            Lorem ipsum dolor sit semper amet, consectetur adipiscing elit. In maximus ligula metus pellentesque
-                            mattis. Donec vel ultricies purus. Nam dictum sem, ipsum aliquam . Praesent sed nisi eleifend,
-                            fermentum orci amet, iaculis libero.
+                            Seperti halnya warna memilih huruf untuk desain juga membutuhkan pengetahuan akan psikologi huruf dan kejelian mengkombinasikan penggunaan beberapa jenis huruf. Kesalahan memilih jenis huruf dan kombinasinya akan berakibat pesan yang ingin disampaikan melalui desain tidak efektif dan tidak enak dalam pandangan mata. Selain itu besar kecil huruf  juga sangat penting diperhatikan. Untuk membicarakan tentang huruf ini sangat panjang dan sekedar diketahui bahwa pembicaraan mengenai huruf ni dikenal dengan istilah Typography atau Tipografi.
                         </div>
                         <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-
-                            Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Integer lectus. Etiam sit amet
-                            fringilla lacus. Maecenas  volutpat, diam enim sagittis quam, id porta quam. Sed id&nbsp;dolor
-                            consectetur fermentum volutpat nibh, accumsan purus.
+                          Ilustrasi bisa didapatkan dari karya-karya yang telah dibuat orang lain dan bisa juga diproduksi sendiri. Pada saat-saat tertentu ketika stok ilustrasi yang ada tidak dapat mengakomodir kebutuhan ilustrasi untuk desain kita maka saat itu dibutuhkan keputusan untuk membuat ilustrasi sendiri. Seorang Desainer Grafis sebaiknya memiliki kemampuan untuk membuat ilustrasi sendiri disamping kemampuan memilih ilustrasi  yang baik dan sesuai untuk kepentingannya. Seorang desainer grafis juga biasanya memiliki stok ilustrasi yang banyak untuk digunakan sewaktu-waktu.
                         </div>
                     </div>
                 </div>
@@ -113,22 +108,15 @@
                         <div class="col-md-4 mb-md-40 mb-xs-30">
                             <blockquote class="mb-0">
                                 <p>
-                                    All that is&nbsp;valuable in&nbsp;human society depends upon the opportunity for development accorded the individual.
+                                    Percetakan adalah sebuah proses industri untuk pemproduksikan massal tulisan dan gambar, terutama dengan tinta di atas kertas menggunakan sebuah mesin cetak. Dia merupakan sebuah bagian penting dalam penerbitan dan percetakan transaksi termasuk didalam sebuah prosesnya yang dikenal sebagai OFFSET Printing
                                 </p>
-                                <footer>
-                                    Albert Einstein
-                                </footer>
                             </blockquote>
                         </div>
                         <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                            Fusce hendrerit vitae nunc id gravida. Donec euismod quis ante at mattis. Mauris dictum ante sit
-                            amet enim interdum semper. Vestibulum odio justo, faucibus et dictum eu, malesuada nec neque.
-                            Maecenas  volutpat, diam enim sagittis.
+                            Cetak offset / Offset Printing  adalah teknik cetak yang banyak digunakan, di mana citra (image) bertinta di-transfer (atau di- "offset") terlebih dahulu dari plat ke lembaran karet, lalu ke permukaan yang akan dicetak. Ketika dikombinasikan dengan proses litografi, yang berdasarkan pada sifat air dan minyak yang tidak bercampur, maka teknik offset printing menggunakan sebuah pemuat citra yang rata (planographic) di mana citra yang akan dicetak mengambil tinta dari penggulung tinta (ink rollers), sementara area yang yang tidak dicetak menarik air, menyebabkan area yang tak dicetak bebas tinta.
                         </div>
                         <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                            Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Sed id dolor consectetur fermentum
-                            volutpat nibh, accumsan purus. Lorem ipsum dolor sit semper amet, consectetur adipiscing elit.
-                            Inmed maximus ligula metus pellentesque.
+                            Bila dibandingkan sebenarnya kedua jenis printing ini sama-sama bagus. Memang dari segi kualitas hasil cetakan mesin offset lebih unggul dalam variasi besar kertas cetakan yang bisa dipilih serta ketajaman hasil cetakan, tetapi hasil cetakan dari mesin digital printing sendiri juga tidak kalah bagus dari hasil cetakan mesin offset; perbedaan ketajaman gambarnya sulit terlihat oleh orang pada umumnya
                         </div>
                     </div>
                 </div>
@@ -241,11 +229,6 @@
                         <span class="icon-flag"></span>
                     </div>
                     <h3 class="alt-features-title font-alt">Harga Kompetitif</h3>
-                    <div class="alt-features-descr align-left">
-                        Lorem ipsum dolor sit amet, c-r adipiscing elit.
-                        In maximus ligula semper metus pellentesque mattis.
-                        Maecenas  volutpat, diam enim.
-                    </div>
                 </div>
             </div>
             <!-- End Features Item -->
@@ -256,12 +239,7 @@
                     <div class="alt-features-icon">
                         <span class="icon-clock"></span>
                     </div>
-                    <h3 class="alt-features-title font-alt">We’re Punctual</h3>
-                    <div class="alt-features-descr align-left">
-                        Proin fringilla augue at maximus vestibulum.
-                        Nam pulvinar vitae neque et porttitor. Praesent sed
-                        nisi eleifend, lorem fermentum orci sit amet, iaculis libero.
-                    </div>
+                    <h3 class="alt-features-title font-alt">Tepat waktu</h3>
                 </div>
             </div>
             <!-- End Features Item -->
@@ -272,64 +250,10 @@
                     <div class="alt-features-icon">
                         <span class="icon-hotairballoon"></span>
                     </div>
-                    <h3 class="alt-features-title font-alt">We have magic</h3>
-                    <div class="alt-features-descr align-left">
-                        Curabitur iaculis accumsan augue, nec finibus mauris pretium eu.
-                        Duis placerat ex gravida nibh tristique porta. Nulla facilisi.
-                        Suspendisse ultricies eros blandit.
-                    </div>
+                    <h3 class="alt-features-title font-alt">Kreatif</h3>
                 </div>
             </div>
             <!-- End Features Item -->
-
-            <!-- Features Item -->
-            <div class="col-sm-6 col-md-4 col-lg-4">
-                <div class="alt-features-item align-center">
-                    <div class="alt-features-icon">
-                        <span class="icon-heart"></span>
-                    </div>
-                    <h3 class="alt-features-title font-alt">We love minimalism</h3>
-                    <div class="alt-features-descr align-left">
-                        Cras luctus interdum sodales. Quisque quis odio dui. Sedes sit
-                        amet neque malesuada, lobortis  commodo magna ntesque pharetra
-                        metus vivera sagittis.
-                    </div>
-                </div>
-            </div>
-            <!-- End Features Item -->
-
-            <!-- Features Item -->
-            <div class="col-sm-6 col-md-4 col-lg-4">
-                <div class="alt-features-item align-center">
-                    <div class="alt-features-icon">
-                        <span class="icon-linegraph"></span>
-                    </div>
-                    <h3 class="alt-features-title font-alt">We’re responsible</h3>
-                    <div class="alt-features-descr align-left">
-                        Fusce aliquet quam eget neque ultrices elementum. Nulla posuere
-                        felis id arcu blandit sagittis. Eleifender vestibulum purus, sit
-                        amet vulputate risus.
-                    </div>
-                </div>
-            </div>
-            <!-- End Features Item -->
-
-            <!-- Features Item -->
-            <div class="col-sm-6 col-md-4 col-lg-4">
-                <div class="alt-features-item align-center">
-                    <div class="alt-features-icon">
-                        <span class="icon-chat"></span>
-                    </div>
-                    <h3 class="alt-features-title font-alt">We're Friendly</h3>
-                    <div class="alt-features-descr align-left">
-                        Pulvinar vitae neque et porttitor. Integer non dapibus diam, ac
-                        eleifend lectus. Praesent sed nisi eleifend, fermentum orci sit
-                        amet, iaculis libero interdum.
-                    </div>
-                </div>
-            </div>
-            <!-- End Features Item -->
-
         </div>
         <!-- End Features Grid -->
 
@@ -392,7 +316,8 @@
                                 Call Us
                             </div>
                             <div class="ci-text">
-                                085288813963
+                                FAHMI SIDIK<br/>
+                                0852 8881 3963
                             </div>
                         </div>
                     </div>
@@ -408,7 +333,7 @@
                                 Address
                             </div>
                             <div class="ci-text">
-                                Jl. H. Ipin No. 73 Pondok Labu - Jakarta Selatan
+                                Jl. H. Ipin No 73  Pondok Labu - Jakarta Selatan
                             </div>
                         </div>
                     </div>
@@ -424,7 +349,7 @@
                                 Email
                             </div>
                             <div class="ci-text">
-                                <a href="mailto:info@muliagrafika.com">info@muliagrafika.com</a>
+                                <a href="mailto:muliagrafika_20@yahoo.com">muliagrafika_20@yahoo.com</a>
                             </div>
                         </div>
                     </div>

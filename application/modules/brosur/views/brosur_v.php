@@ -49,7 +49,7 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-1.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/brosur/brosur1.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
@@ -90,7 +90,7 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-2.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/brosur/brosur2.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
@@ -131,7 +131,7 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-3.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/brosur/brosur3.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         

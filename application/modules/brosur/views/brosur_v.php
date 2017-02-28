@@ -23,7 +23,7 @@
 									PAKET CEPAT (ukuran brosur A5, cetak 2 sisi, kertas Ap 150 gsm).
                                     </p>
                                     <footer>
-                                        Louis Kahn
+                                        FAHMI
                                     </footer>
                                 </blockquote>
                             </div>
@@ -31,7 +31,8 @@
                             <div class="col-md-6 col-sm-6 mb-sm-50 mb-xs-30">                                
 								* Jumlah Cetak Brosur 1000 = Harga Rp  800.ooo<br>
 								* Jumlah Cetak Brosur 2000 = Harga Rp  450.000/1000<br>
-								* Jumlah Cetak Brosur 3000 = Harga Rp  400.000/1000
+								* Jumlah Cetak Brosur 3000 = Harga Rp  400.000/1000<br>
+								Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144.
 							</div>
                             
                             <div class="col-md-2 col-sm-6 mb-sm-50 mb-xs-30">
@@ -56,7 +57,7 @@
                                         <h4 class="font-alt normal">Hello & Welcome!</h4>
                                         
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&nbsp;iaculis diam. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -71,11 +72,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Thomas Rhythm 
+                                        Brosur 
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Art Director
+                                        FAHMI
                                     </div>
                                     
                                 </div>
@@ -97,7 +98,7 @@
                                         <h4 class="font-alt normal">Nice to meet!</h4>
                                         
                                         <p>
-                                            Curabitur augue, nec finibus mauris pretium eu. Duis placerat ex gravida nibh tristique porta.
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144.
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -112,11 +113,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Marta Laning
+                                        Brosur
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Web engineer
+                                        FAHMI
                                     </div>
                                     
                                 </div>
@@ -138,7 +139,7 @@
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Adipiscing elit curabitur eu&nbsp;adipiscing lacus eu&nbsp;adipiscing lacus, a&nbsp;iaculis diam. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -153,11 +154,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Steve ANDERS
+                                        Flayer
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Developer
+                                        FAHMI
                                     </div>
                                     
                                 </div>

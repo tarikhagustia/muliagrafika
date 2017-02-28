@@ -10,34 +10,29 @@
                 <div class="container relative">
                     
                     <h2 class="section-title font-alt align-right mb-70 mb-sm-40">
-                        Stater kit
+                        Paket Seminar Kit
                     </h2>
                     
                     <div class="section-text mb-50 mb-sm-20">
                         <div class="row">
-                        
                             <div class="col-md-4">
                                 <blockquote>
-                                    <p>
-                                    Berikut daftar harga brosur:<br>
-									PAKET CEPAT (ukuran brosur A5, cetak 2 sisi, kertas Ap 150 gsm).
-                                    </p>
+                                    PAKET SEMINAR KIT :<br>
+									Paket SEMINAR KIT Rp. 45.000 /paket.<br>
+									Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144.
                                     <footer>
-                                        Louis Kahn
+                                        FAHMI
                                     </footer>
                                 </blockquote>
                             </div>
-                            
-                            <div class="col-md-6 col-sm-6 mb-sm-50 mb-xs-30">                                
-								* Jumlah Cetak Brosur 1000 = Harga Rp  800.ooo<br>
-								* Jumlah Cetak Brosur 2000 = Harga Rp  450.000/1000<br>
-								* Jumlah Cetak Brosur 3000 = Harga Rp  400.000/1000
-							</div>
-                            
-                            <div class="col-md-2 col-sm-6 mb-sm-50 mb-xs-30">
-                              
+							<div class="col-md-6 col-sm-6 mb-sm-50 mb-xs-30">
+									dengan mendapatkan :<br>
+									1. Tas Polo + Sablon 1 warna<br>
+									2. Ballpoint. sablon logo perusahaan dan nama kegiatan<br>
+									3. ID card gantung, sablon<br>
+									4. Notes, Cover cetak full colour ; Isi Cetak 1 Warna<br>
+									*) Minimal pemesanan 100 pcs
                             </div>
-                            
                         </div>
                     </div>
                     
@@ -49,14 +44,14 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-1.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/team/skit1.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
                                         <h4 class="font-alt normal">Hello & Welcome!</h4>
                                         
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&nbsp;iaculis diam. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -71,11 +66,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Thomas Rhythm 
+                                        Paket Seminar kit
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Art Director
+                                        FAHMI
                                     </div>
                                     
                                 </div>
@@ -90,14 +85,14 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-2.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/team/skit2.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
                                         <h4 class="font-alt normal">Nice to meet!</h4>
                                         
                                         <p>
-                                            Curabitur augue, nec finibus mauris pretium eu. Duis placerat ex gravida nibh tristique porta.
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144.
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -112,11 +107,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Marta Laning
+                                        Tas Seminar kit
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Web engineer
+                                        FAHMI
                                     </div>
                                     
                                 </div>
@@ -131,14 +126,14 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-3.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/team/skit3.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Adipiscing elit curabitur eu&nbsp;adipiscing lacus eu&nbsp;adipiscing lacus, a&nbsp;iaculis diam. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -153,11 +148,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Steve ANDERS
+                                        Tas Seminar kit
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Developer
+                                        FAHMI
                                     </div>
                                     
                                 </div>

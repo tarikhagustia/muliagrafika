@@ -10,34 +10,43 @@
                 <div class="container relative">
                     
                     <h2 class="section-title font-alt align-right mb-70 mb-sm-40">
-                        Surat Jalan
+                        Surat Jalan, Kwitansi & Nota
                     </h2>
                     
                     <div class="section-text mb-50 mb-sm-20">
                         <div class="row">
                         
-                            <div class="col-md-4">
+                            <div class="col-md-6">
                                 <blockquote>
                                     <p>
-                                    Berikut daftar harga brosur:<br>
-									PAKET CEPAT (ukuran brosur A5, cetak 2 sisi, kertas Ap 150 gsm).
+                                    Kwitansi, Nota & Surat Jaln:<br>
+									Bagi anda yang ingin memesan / ingn mencetak kwitansi / Nota Bon, 
+									disini solusi yang tepat untuk anda, kami menerima pemesanan cetak
+									Kwitansi / Nota Bon. Kwitansi / Nota Bon menggunakan bahan Kertasn NCR
+									/ Kertas Karbon,  ada yang 2 Play, 3 Play, 4 Play dan 5 Play dan ukurannya 
+									juga ada seperti 1/2 F4, 1/3 FA dan 1/4 Fa.
                                     </p>
                                     <footer>
-                                        Louis Kahn
+                                        FAHMI
                                     </footer>
                                 </blockquote>
                             </div>
-                            
                             <div class="col-md-6 col-sm-6 mb-sm-50 mb-xs-30">                                
-								* Jumlah Cetak Brosur 1000 = Harga Rp  800.ooo<br>
-								* Jumlah Cetak Brosur 2000 = Harga Rp  450.000/1000<br>
-								* Jumlah Cetak Brosur 3000 = Harga Rp  400.000/1000
+								Untuk Daftar Harga  :<br>
+								# Ukuran 1/2 F4<br>
+								-1/2 F4 | 2 Play | Rp. 25.000 | Minimal 40 Buku | Satu Play 50 Rangkap<br>
+								1/2 F4 | 3 Play | Rp. 29.000 | Minimal 40 Buku S| Satu Play 50 Rangkap<br>
+								1/2 F4 | 4 Play | Rp. 32.000 | Minimal 40 Buku | Satu Play 50 Rangkap<br><br>
+								# Ukuran 1/3 F4<br>
+								1/3 F4 | 2 Play | Rp. 17.000 | Minimal 30 Buku | Satu Play 50 Rangkap<br>
+								1/3 F4 | 3 Play | Rp. 22.000 | Minimal 30 Buku | Satu Play 50 Rangkap<br>
+								1/3 F4 | 4 Play | Rp. 31.000 | Minimal 30 Buku | Satu Play 50 Rangkap<br><br>
+								# kuran 1/4 F4<br>
+								1/4 F4 | 2 Play | Rp. 14.000 | Minimal 40 Buku | Satu Play 50 Rangkap<br>
+								1/4 F4 | 3 Play | Rp. 16.000 | Minimal 40 Buku S| Satu Play 50 Rangkap<br>
+								1/4 F4 | 4 Play | Rp. 18.000 | Minimal 40 Buku | Satu Play 50 Rangkap<br><br>
+								Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144
 							</div>
-                            
-                            <div class="col-md-2 col-sm-6 mb-sm-50 mb-xs-30">
-                              
-                            </div>
-                            
                         </div>
                     </div>
                     
@@ -49,14 +58,14 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-1.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/team/sj.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
                                         <h4 class="font-alt normal">Hello & Welcome!</h4>
                                         
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&nbsp;iaculis diam. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -71,11 +80,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Thomas Rhythm 
+                                        Surat Jalan
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Art Director
+                                        FAHMI
                                     </div>
                                     
                                 </div>
@@ -90,14 +99,14 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-2.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/team/kwitansi.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
                                         <h4 class="font-alt normal">Nice to meet!</h4>
                                         
                                         <p>
-                                            Curabitur augue, nec finibus mauris pretium eu. Duis placerat ex gravida nibh tristique porta.
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144.
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -112,11 +121,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Marta Laning
+                                        Kwitansi
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Web engineer
+                                        FAHMI
                                     </div>
                                     
                                 </div>
@@ -131,14 +140,14 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-3.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/team/nota.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Adipiscing elit curabitur eu&nbsp;adipiscing lacus eu&nbsp;adipiscing lacus, a&nbsp;iaculis diam. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -153,11 +162,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Steve ANDERS
+                                       NOTA
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Developer
+                                        FAHMI
                                     </div>
                                     
                                 </div>

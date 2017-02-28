@@ -18,26 +18,49 @@
                         
                             <div class="col-md-4">
                                 <blockquote>
-                                    <p>
-                                    Berikut daftar harga brosur:<br>
-									PAKET CEPAT (ukuran brosur A5, cetak 2 sisi, kertas Ap 150 gsm).
-                                    </p>
+                                    4 Fungsi Kalender :<br>
+									Setiap pergantian tahun, kebanyakan orang akan berusaha 
+									mencari kalender tahun yang baru untuk menggantikan 
+									kalender lama yang ada di rumah atau kantor mereka. 
+									sebenarnya apa sih fungsi kalender itu? Kalau kamu taunya 
+									kalender itu cuma untuk melihat sekarang tanggal berapa, 
+									sekarang saatnya kamu harus tahu tentang fungsi-fungsi kalender lainnya : <br>
+									 Pengingat, Pengatur Jadwal, Sebagai Hiasan, Hadiah / cendramata.<br>
+									Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144.
+                                   
                                     <footer>
-                                        Louis Kahn
+                                        FAHMI
                                     </footer>
                                 </blockquote>
                             </div>
-                            
-                            <div class="col-md-6 col-sm-6 mb-sm-50 mb-xs-30">                                
-								* Jumlah Cetak Brosur 1000 = Harga Rp  800.ooo<br>
-								* Jumlah Cetak Brosur 2000 = Harga Rp  450.000/1000<br>
-								* Jumlah Cetak Brosur 3000 = Harga Rp  400.000/1000
+                            <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">                                
+								* Kalender Meja (7 lembar )<br>
+								<b>Spesifikasi</b> : Isi : 7 lembar | Spiral / O-ring|  Kertas : Art Carton 230 gsm | Cetak Full color 2 sisi  | Dudukan board lapis linen |  Tanpa laminating.<br>
+								* Ukuran dan Harga (/pcs)<br>
+								&emsp;Quantity&emsp;&emsp;&emsp;&emsp;15 x 21 cm&emsp;&emsp;&emsp;&emsp;17 x 24 cm<br>
+								&emsp;100 pcs&emsp;&emsp;&emsp;&emsp;&emsp; 33.800&emsp;&emsp;&emsp;&emsp;&emsp;36.700<br>
+								&emsp;200 pcs&emsp;&emsp;&emsp;&emsp;&emsp; 21.000&emsp;&emsp;&emsp;&emsp;&emsp;23.900<br>
+								&emsp;300 pcs&emsp;&emsp;&emsp;&emsp;&emsp; 17.600&emsp;&emsp;&emsp;&emsp;&emsp;20.300<br>
+								&emsp;500 pcs&emsp;&emsp;&emsp;&emsp;&emsp; 14.600&emsp;&emsp;&emsp;&emsp;&emsp;17.000<br>
+								&emsp;750 pcs&emsp;&emsp;&emsp;&emsp;&emsp; 13.000&emsp;&emsp;&emsp;&emsp;&emsp;15.300<br>
+								&emsp;1000 pcs&emsp;&emsp;&emsp;&emsp;&emsp;12.200&emsp;&emsp;&emsp;&emsp;&emsp;14.400<br>
+								&emsp;1500 pcs&emsp;&emsp;&emsp;&emsp;&emsp;11.600&emsp;&emsp;&emsp;&emsp;&emsp;13.900<br>
+								&emsp;2000 pcs&emsp;&emsp;&emsp;&emsp;&emsp;11.200&emsp;&emsp;&emsp;&emsp;&emsp;13.400
 							</div>
-                            
-                            <div class="col-md-2 col-sm-6 mb-sm-50 mb-xs-30">
-                              
+                            <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
+								* Kalender Meja ( 13 lembar )<br>
+								<b>Spesifikasi</b> : Isi : 13 lembar | Spiral / O-ring|  Kertas : Art Carton 230 gsm | Cetak Full color 2 sisi  | Dudukan board lapis linen |  Tanpa laminating .<br>
+								* Ukuran dan Harga (/pcs)<br>
+								&emsp;Quantity&emsp;&emsp;&emsp;&emsp;15 x 21 cm&emsp;&emsp;&emsp;&emsp;17 x 24 cm<br>
+								&emsp;100 pcs&emsp;&emsp;&emsp;&emsp;&emsp; 50.700&emsp;&emsp;&emsp;&emsp;&emsp;55.800<br>
+								&emsp;200 pcs&emsp;&emsp;&emsp;&emsp;&emsp; 30.800&emsp;&emsp;&emsp;&emsp;&emsp;34.800<br>
+								&emsp;300 pcs&emsp;&emsp;&emsp;&emsp;&emsp; 24.900&emsp;&emsp;&emsp;&emsp;&emsp;28.600<br>
+								&emsp;500 pcs&emsp;&emsp;&emsp;&emsp;&emsp; 19.700&emsp;&emsp;&emsp;&emsp;&emsp;23.000<br>
+								&emsp;750 pcs&emsp;&emsp;&emsp;&emsp;&emsp; 17.000&emsp;&emsp;&emsp;&emsp;&emsp;20.100<br>
+								&emsp;1000 pcs&emsp;&emsp;&emsp;&emsp;&emsp;15.700&emsp;&emsp;&emsp;&emsp;&emsp;18.700<br>
+								&emsp;1500 pcs&emsp;&emsp;&emsp;&emsp;&emsp;14.800&emsp;&emsp;&emsp;&emsp;&emsp;17.700<br>
+								&emsp;2000 pcs&emsp;&emsp;&emsp;&emsp;&emsp;14.000&emsp;&emsp;&emsp;&emsp;&emsp;16.900
                             </div>
-                            
                         </div>
                     </div>
                     
@@ -49,14 +72,14 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-1.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/team/k1.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
                                         <h4 class="font-alt normal">Hello & Welcome!</h4>
                                         
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&nbsp;iaculis diam. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -71,11 +94,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Thomas Rhythm 
+                                        Calender
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Art Director
+                                        FAHMI
                                     </div>
                                     
                                 </div>
@@ -90,14 +113,14 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-2.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/team/k2.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
                                         <h4 class="font-alt normal">Nice to meet!</h4>
                                         
                                         <p>
-                                            Curabitur augue, nec finibus mauris pretium eu. Duis placerat ex gravida nibh tristique porta.
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144.
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -112,11 +135,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Marta Laning
+                                        Calender Dinding
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Web engineer
+                                        FAHMI
                                     </div>
                                     
                                 </div>
@@ -131,14 +154,14 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-3.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/team/k3.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Adipiscing elit curabitur eu&nbsp;adipiscing lacus eu&nbsp;adipiscing lacus, a&nbsp;iaculis diam. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -153,11 +176,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Steve ANDERS
+                                        Calender Dinding
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Developer
+                                        FAHMI
                                     </div>
                                     
                                 </div>

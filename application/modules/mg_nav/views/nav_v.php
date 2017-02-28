@@ -166,34 +166,31 @@
 
                             <ul>
                                 <li>
-                                    <a href="<?php echo base_url('produk/brosur'); ?>">Brosur</a>
+                                    <a href="<?php echo base_url('produk/brosur'); ?>">Brosur & Flayer</a>
                                 </li>
                                 <li>
-                                    <a href="<?php echo base_url('produk/ksurat'); ?>">Kop Surat</a>
+                                    <a href="<?php echo base_url('produk/ksurat'); ?>">Kop Surat & Kartu nama</a>
                                 </li>
                                 <li>
-                                    <a href="<?php echo base_url('produk/knama'); ?>">Kartu nama</a>
-                                </li>
-                                <li>
-                                    <a href="<?php echo base_url('produk/sajalan'); ?>">Surat Jalan</a>
-                                </li>
-                                <li>
-                                    <a href="<?php echo base_url('produk/kwitansi'); ?>">Kwitansi</a>
-                                </li>
-                                <li>
-                                    <a href="<?php echo base_url('produk/nota'); ?>">Nota</a>
+                                    <a href="<?php echo base_url('produk/sajalan'); ?>">Surat Jalan, Kwitansi & Nota</a>
                                 </li>
                                 <li>
                                     <a href="<?php echo base_url('produk/kalender'); ?>">Kalender</a>
                                 </li>
-                                <li>
-                                    <a href="pages-landing.html">Seminar Kit</a>
+								<li>
+                                    <a href="<?php echo base_url('produk/skit'); ?>">Paket Seminar Kit</a>
+                                </li>
+								<li>
+                                    <a href="<?php echo base_url('produk/yasin'); ?>">Yasin</a>
+                                </li>
+								<li>
+                                    <a href="<?php echo base_url('produk/undangan'); ?>">Undangan Pernikahan / Khitanan</a>
                                 </li>
                             </ul>
 
                         </li>
 
-                        <li class="mn-sub-multi">
+                      <!--  <li class="mn-sub-multi">
                             <a class="mn-group-title">Produk Lainnya</a>
 
                             <ul>
@@ -219,7 +216,7 @@
 
                         </li>
 
-                       <!-- <li class="mn-sub-multi">
+                        <li class="mn-sub-multi">
                             <a class="mn-group-title">Group 3</a>
 
                             <ul>

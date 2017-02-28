@@ -10,34 +10,40 @@
                 <div class="container relative">
                     
                     <h2 class="section-title font-alt align-right mb-70 mb-sm-40">
-                        Kop Surat
+                        Kop Surat & Kartu nama
                     </h2>
                     
                     <div class="section-text mb-50 mb-sm-20">
                         <div class="row">
-                        
-                            <div class="col-md-4">
+                            <div class="col-md-6">
                                 <blockquote>
                                     <p>
-                                    Berikut daftar harga brosur:<br>
-									PAKET CEPAT (ukuran brosur A5, cetak 2 sisi, kertas Ap 150 gsm).
+                                    Mengerjakan berbagai jenis kop surat:<br>
+									Kop surat biasanya digunakan untuk korespondensi 
+									bisnis di luar perusahaan. Hampir semua dari proposal, 
+									surat penjualan dan korespondensi lainnya disajikan pada kop surat. 
+									Sangat penting Anda memiliki kop surat dicetak pada warna dan 
+									kertas kualitas tinggi, yang memberikan kesan bahwa bisnis Anda 
+									kuat dan dapat dipercaya.
                                     </p>
                                     <footer>
-                                        Louis Kahn
+                                        Fahmi
                                     </footer>
                                 </blockquote>
                             </div>
                             
                             <div class="col-md-6 col-sm-6 mb-sm-50 mb-xs-30">                                
-								* Jumlah Cetak Brosur 1000 = Harga Rp  800.ooo<br>
-								* Jumlah Cetak Brosur 2000 = Harga Rp  450.000/1000<br>
-								* Jumlah Cetak Brosur 3000 = Harga Rp  400.000/1000
+								Harga per rim :<br>
+								– Quantity 1 rim : Full color Rp. 600.000,-<br>
+								– Quantity 2 rim : Full color Rp. 350.000,-<br>
+								– Quantity 5 rim : Full color Rp. 200.000,-<br>
+								– Quantity 10 rim :Full color Rp. 130.000,-<br>
+								Ukuran : A4<br>
+								Warna : full color<br>
+								Bahan : HVS 80 gsm<br>
+								Harga dapat berubah sewaktu-waktu tanpa pemberitahuan lebih lanjut.<br>
+								Untuk mengetahui daftar harga kop surat sesuai kebutuhan anda. Silahkan menghubungi kami :  0852 80910 999/0817 889 144
 							</div>
-                            
-                            <div class="col-md-2 col-sm-6 mb-sm-50 mb-xs-30">
-                              
-                            </div>
-                            
                         </div>
                     </div>
                     
@@ -49,14 +55,14 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-1.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/team/kop1.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
                                         <h4 class="font-alt normal">Hello & Welcome!</h4>
                                         
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&nbsp;iaculis diam. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -71,11 +77,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Thomas Rhythm 
+                                        Kop Surat
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Art Director
+                                        FAHMI
                                     </div>
                                     
                                 </div>
@@ -90,14 +96,14 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-2.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/team/kop2.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
                                         <h4 class="font-alt normal">Nice to meet!</h4>
                                         
                                         <p>
-                                            Curabitur augue, nec finibus mauris pretium eu. Duis placerat ex gravida nibh tristique porta.
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144.
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -112,11 +118,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Marta Laning
+                                        Kop Surat
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Web engineer
+                                        FAHMI
                                     </div>
                                     
                                 </div>
@@ -131,14 +137,14 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-3.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/team/kop4.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Adipiscing elit curabitur eu&nbsp;adipiscing lacus eu&nbsp;adipiscing lacus, a&nbsp;iaculis diam. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -153,11 +159,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Steve ANDERS
+                                        Kartu Nama
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Developer
+                                        FAHMI
                                     </div>
                                     
                                 </div>

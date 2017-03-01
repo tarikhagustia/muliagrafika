@@ -64,3 +64,6 @@ $route['produk/skit'] = 'brosur/mg_brosur/skit';
 $route['produk/yasin'] = 'brosur/mg_brosur/yasin';
 $route['produk/undangan'] = 'brosur/mg_brosur/undangan';
 $route['produk/xbanner'] = 'brosur/mg_brosur/xbanner';
+
+$route['pemesanan/cara-pemesanan'] = 'pembayaran/index';
+$route['contact-us'] = 'page/contact_us';

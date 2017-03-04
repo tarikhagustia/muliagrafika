@@ -20,18 +20,51 @@
                                 <blockquote>
                                     <p>
                                     Berikut daftar harga Yasin:<br>
-									Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144
                                     </p>
                                     <footer>
-                                        FAHMI
+                                        Untuk informasi pemesanan silahkan menghubungi FAHMISIDIK : 0852 8881 3963.<br>
+										Alamat jl. H ipin no 73 pondok labu jakarta selatan
                                     </footer>
                                 </blockquote>
                             </div>
                             
                             <div class="col-md-6 col-sm-6 mb-sm-50 mb-xs-30">                                
-								* Jumlah Cetak Yasin 1000 = <br>
-								* Jumlah Cetak Yasin 2000 = <br>
-								* Jumlah Cetak Yasin 3000 = 
+								<table class="table table-striped table-bordered">
+									<thead>
+										<tr>
+											<th colspan="6" class="text-center" bgcolor="#FFD700"><b>Yasin</b></th>
+										</tr>
+										<tr>
+											<th class="text-center">Yasin</th>
+											<th class="text-center">Qty/Pcs</th>
+											<th class="text-center">Harga/Rp</th>
+										</tr>
+									</thead>
+									<tbody class="text-center">
+										<tr>
+											<td rowspan="2" bgcolor="#FFD700">Soft Cover</td>
+											<td>50</td>
+											<td>15.000</td>
+										</tr><tr>
+											<td>100</td>
+											<td>12.000</td>
+										</tr><tr>
+											<td rowspan="2" bgcolor="#FFD700">Hard Cover</td>
+											<td>50</td>
+											<td>21.000</td>
+										<tr>
+											<td>100</td>
+											<td>19.000</td>
+										</tr><tr>
+											<td rowspan="2" bgcolor="#FFD700">Hbeludru</td>
+											<td>50</td>
+											<td>25.000</td>
+										</tr><tr>
+											<td>100</td>
+											<td>23.000</td>
+										</tr>
+									</tbody>
+								</table>
 							</div>
                             
                             <div class="col-md-2 col-sm-6 mb-sm-50 mb-xs-30">
@@ -56,7 +89,7 @@
                                         <h4 class="font-alt normal">Hello & Welcome!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963.
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -97,7 +130,7 @@
                                         <h4 class="font-alt normal">Nice to meet!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144.
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963.
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -138,7 +171,7 @@
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">

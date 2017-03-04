@@ -25,11 +25,10 @@
 									sebenarnya apa sih fungsi kalender itu? Kalau kamu taunya 
 									kalender itu cuma untuk melihat sekarang tanggal berapa, 
 									sekarang saatnya kamu harus tahu tentang fungsi-fungsi kalender lainnya : <br>
-									 Pengingat, Pengatur Jadwal, Sebagai Hiasan, Hadiah / cendramata.<br>
-									Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144.
-                                   
-                                    <footer>
-                                        FAHMI
+									 Pengingat, Pengatur Jadwal, Sebagai Hiasan, Hadiah / cendramata.
+									 <footer>
+                                        Untuk informasi pemesanan silahkan menghubungi FAHMISIDIK : 0852 8881 3963.<br>
+										Alamat jl. H ipin no 73 pondok labu jakarta selatan
                                     </footer>
                                 </blockquote>
                             </div>
@@ -79,7 +78,7 @@
                                         <h4 class="font-alt normal">Hello & Welcome!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -120,7 +119,7 @@
                                         <h4 class="font-alt normal">Nice to meet!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144.
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963.
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -161,7 +160,7 @@
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">

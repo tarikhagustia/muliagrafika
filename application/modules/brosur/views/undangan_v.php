@@ -24,10 +24,13 @@
 									Di Sinilah Salah satu tempat yang menyediakan banyak 
 									pembuatan undangan, Kami Menyediakan Berbagai Macam 
 									Undangan,& menerima pembuatan undangan sesuai contoh 
-									yg anda inginkan, anda bisa datang ke tempat kami 
-									MULIA GRAFHICS . no tlp : 0852 80 910 999/ 0817 889 144.
+									yg anda inginkan, anda bisa datang ke tempat kami <br>
+									Undangan pernikahan harga mulai Rp 1.000* <br>
+									Syarat & Ketentuan Berlaku <br>
+									MULIA GRAFHICS . no tlp : 0852 8881 3963.
                                     <footer>
-                                        FAHMI
+                                        Untuk informasi pemesanan silahkan menghubungi FAHMISIDIK : 0852 8881 3963.<br>
+										Alamat jl. H ipin no 73 pondok labu jakarta selatan
                                     </footer>
                                 </blockquote>
                             </div>
@@ -52,7 +55,7 @@
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -93,7 +96,7 @@
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -133,7 +136,7 @@
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -173,7 +176,7 @@
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -213,7 +216,7 @@
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -254,7 +257,7 @@
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -294,7 +297,7 @@
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -334,7 +337,7 @@
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -374,7 +377,7 @@
                                         <h4 class="font-alt normal">Hello & Welcome!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">

@@ -15,30 +15,122 @@
                     
                     <div class="section-text mb-50 mb-sm-20">
                         <div class="row">
-                        
                             <div class="col-md-4">
-                                <blockquote>
-                                    <p>
-                                    Berikut daftar harga brosur:<br>
-									PAKET CEPAT (ukuran brosur A5, cetak 2 sisi, kertas Ap 150 gsm).
-                                    </p>
+                                    <table class="table table-striped table-bordered">
+										<thead>
+											<tr>
+												<th colspan="3" class="text-center" bgcolor="#FFD700"><b>BAHAN Art Paper 120gr / 150gr Ukuran A5</b></th>
+											</tr>
+											<tr>
+												<th class="text-center">Qty/Lembar</th>
+												<th class="text-center">1 Muka/Rp</th>
+												<th class="text-center">2 Muka/Rp</th>
+											</tr>
+										</thead>
+										<tbody class="text-center">
+											<tr>
+												<td>1.000</td>
+												<td>600.000</td>
+												<td>700.000</td>
+											</tr><tr>
+												<td>2.000</td>
+												<td>800.000</td>
+												<td>900.000</td>
+											</tr><tr>
+												<td>3.000</td>
+												<td>1.000.000</td>
+												<td>1.100.000</td>
+											</tr><tr>
+												<td>4.000</td>
+												<td>1.150.000</td>
+												<td>1.250.000</td>
+											</tr><tr>
+												<td>5.000</td>
+												<td>1.300.000</td>
+												<td>1.400.000</td>
+											</tr>
+										</tbody>
+									</table>
                                     <footer>
-                                        FAHMI
+                                        Untuk informasi pemesanan silahkan menghubungi FAHMISIDIK : 0852 8881 3963.<br>
+										Alamat jl. H ipin no 73 pondok labu jakarta selatan
                                     </footer>
-                                </blockquote>
                             </div>
                             
-                            <div class="col-md-6 col-sm-6 mb-sm-50 mb-xs-30">                                
-								* Jumlah Cetak Brosur 1000 = Harga Rp  800.ooo<br>
-								* Jumlah Cetak Brosur 2000 = Harga Rp  450.000/1000<br>
-								* Jumlah Cetak Brosur 3000 = Harga Rp  400.000/1000<br>
-								Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144.
+                            <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">                                
+								<table class="table table-striped table-bordered">
+									<thead>
+										<tr>
+											<th colspan="3" class="text-center" bgcolor="#FFD700"><b>BAHAN Art Paper 120gr / 150gr Ukuran A4</b></th>
+										</tr>
+										<tr>
+											<th class="text-center">Qty/Lembar</th>
+											<th class="text-center">1 Muka/Rp</th>
+											<th class="text-center">2 Muka/Rp</th>
+										</tr>
+									</thead>
+									<tbody class="text-center">
+										<tr>
+											<td>500</td>
+											<td>600.000</td>
+											<td>700.000</td>
+										</tr><tr>
+											<td>1.000</td>
+											<td>800.000</td>
+											<td>900.000</td>
+										</tr><tr>
+											<td>1.500</td>
+											<td>1.000.000</td>
+											<td>1.100.000</td>
+										</tr><tr>
+											<td>2.000</td>
+											<td>1.150.000</td>
+											<td>1.250.000</td>
+										</tr><tr>
+											<td>2.500</td>
+											<td>1.300.000</td>
+											<td>1.400.000</td>
+										</tr>
+									</tbody>
+								</table>
 							</div>
-                            
-                            <div class="col-md-2 col-sm-6 mb-sm-50 mb-xs-30">
-                              
+                            <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
+								<table class="table table-striped table-bordered">
+									<thead>
+										<tr>
+											<th colspan="3" class="text-center" bgcolor="#FFD700"><b>BAHAN Art Paper 120gr / 150gr Ukuran A3</b></th>
+										</tr>
+										<tr>
+											<th class="text-center">Qty/Lembar</th>
+											<th class="text-center">1 Muka/Rp</th>
+											<th class="text-center">2 Muka/Rp</th>
+										</tr>
+									</thead>
+									<tbody class="text-center">
+										<tr>
+											<td>500</td>
+											<td>750.000</td>
+											<td>1.050.000</td>
+										</tr><tr>
+											<td>1.000</td>
+											<td>1.050.000</td>
+											<td>1.350.000</td>
+										</tr><tr>
+											<td>1.500</td>
+											<td>1.300.000</td>
+											<td>1.700.000</td>
+										</tr><tr>
+											<td>2.000</td>
+											<td>1.550.000</td>
+											<td>1.850.000</td>
+										</tr><tr>
+											<td>2.500</td>
+											<td>1.800.000</td>
+											<td>2.100.000</td>
+										</tr>
+									</tbody>
+								</table>
                             </div>
-                            
                         </div>
                     </div>
                     
@@ -57,7 +149,7 @@
                                         <h4 class="font-alt normal">Hello & Welcome!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -98,7 +190,7 @@
                                         <h4 class="font-alt normal">Nice to meet!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144.
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963.
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -139,7 +231,7 @@
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">

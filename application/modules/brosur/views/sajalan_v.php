@@ -27,7 +27,8 @@
 									juga ada seperti 1/2 F4, 1/3 FA dan 1/4 Fa.
                                     </p>
                                     <footer>
-                                        FAHMI
+                                        Untuk informasi pemesanan silahkan menghubungi FAHMISIDIK : 0852 8881 3963.<br>
+										Alamat jl. H ipin no 73 pondok labu jakarta selatan
                                     </footer>
                                 </blockquote>
                             </div>
@@ -45,7 +46,6 @@
 								1/4 F4 | 2 Play | Rp. 14.000 | Minimal 40 Buku | Satu Play 50 Rangkap<br>
 								1/4 F4 | 3 Play | Rp. 16.000 | Minimal 40 Buku S| Satu Play 50 Rangkap<br>
 								1/4 F4 | 4 Play | Rp. 18.000 | Minimal 40 Buku | Satu Play 50 Rangkap<br><br>
-								Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144
 							</div>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                                         <h4 class="font-alt normal">Hello & Welcome!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -106,7 +106,7 @@
                                         <h4 class="font-alt normal">Nice to meet!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144.
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963.
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -147,7 +147,7 @@
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 80 910 999/0817 889 144. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">

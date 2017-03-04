@@ -55,7 +55,7 @@
                                     <a href="<?php echo base_url('produk/brosur'); ?>">Brosur & Flayer</a>
                                 </li>
                                 <li>
-                                    <a href="<?php echo base_url('produk/ksurat'); ?>">Kop Surat & Kartu nama</a>
+                                    <a href="<?php echo base_url('produk/ksurat'); ?>">Kop Surat, Amplop & Kartu nama</a>
                                 </li>
                                 <li>
                                     <a href="<?php echo base_url('produk/sajalan'); ?>">Surat Jalan, Kwitansi & Nota</a>

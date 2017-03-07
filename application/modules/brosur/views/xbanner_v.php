@@ -10,7 +10,7 @@
                 <div class="container relative">
                     
                     <h2 class="section-title font-alt align-right mb-70 mb-sm-40">
-                        X baner
+                        Spanduk Digital / Kain
                     </h2>
                     
                     <div class="section-text mb-50 mb-sm-20">
@@ -22,9 +22,10 @@
                                     Berikut daftar harga brosur:<br>
 									PAKET CEPAT (ukuran brosur A5, cetak 2 sisi, kertas Ap 150 gsm).
                                     </p>
-                                    <footer>
-                                        Louis Kahn
-                                    </footer>
+                                <footer>
+									<b>Untuk informasi pemesanan silahkan menghubungi FAHMISIDIK : 0852 8881 3963.</b><br>
+									<b>Alamat jl. H ipin no 73 pondok labu jakarta selatan.</b>
+                                </footer>
                                 </blockquote>
                             </div>
                             

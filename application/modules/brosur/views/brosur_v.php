@@ -8,11 +8,9 @@
  <!-- About Section -->
             <section class="page-section" id="about">
                 <div class="container relative">
-                    
                     <h2 class="section-title font-alt align-right mb-70 mb-sm-40">
                         brosur & flyer
                     </h2>
-                    
                     <div class="section-text mb-50 mb-sm-20">
                         <div class="row">
                             <div class="col-md-4">
@@ -56,7 +54,6 @@
 										Alamat jl. H ipin no 73 pondok labu jakarta selatan
                                     </footer>
                             </div>
-                            
                             <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">                                
 								<table class="table table-striped table-bordered">
 									<thead>

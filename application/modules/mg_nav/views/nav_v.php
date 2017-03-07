@@ -72,6 +72,21 @@
 								<li>
                                     <a href="<?php echo base_url('produk/undangan'); ?>">Undangan Pernikahan / Khitanan</a>
                                 </li>
+								<li>
+                                    <a href="<?php echo base_url('produk/knama'); ?>">Stiker</a>
+                                </li>
+								<li>
+                                    <a href="<?php echo base_url('produk/nota'); ?>">Paper Bag</a>
+                                </li>
+								<li>
+                                    <a href="<?php echo base_url('produk/xbanner'); ?>">Spanduk Digital / Kain</a>
+                                </li>
+								<li>
+                                    <a href="<?php echo base_url('produk/kado'); ?>">Kotak Kado</a>
+                                </li>
+								<li>
+                                    <a href="<?php echo base_url('produk/kwitansi'); ?>">T-Shirt / Kaos</a>
+                                </li>
                             </ul>
 
                         </li>

@@ -8,34 +8,96 @@
  <!-- About Section -->
             <section class="page-section" id="about">
                 <div class="container relative">
-                    
                     <h2 class="section-title font-alt align-right mb-70 mb-sm-40">
-                        Kartu Nama
+                        Stiker
                     </h2>
-                    
                     <div class="section-text mb-50 mb-sm-20">
                         <div class="row">
-                        
                             <div class="col-md-4">
-                                <blockquote>
-                                    <p>
-                                    Berikut daftar harga brosur:<br>
-									PAKET CEPAT (ukuran brosur A5, cetak 2 sisi, kertas Ap 150 gsm).
-                                    </p>
-                                    <footer>
-                                        Louis Kahn
-                                    </footer>
-                                </blockquote>
+                                <table class="table table-striped table-bordered">
+									<thead>
+										<tr>
+											<th colspan="3" class="text-center" bgcolor="#FFD700"><b>Bahan Stiker Chromo, cetak fullcolour, tanpa UV varnish,
+											bulat diameter 8 cm</b></th>
+										</tr>
+										<tr>
+											<th class="text-center">Qty/PCS</th>
+											<th class="text-center">Rp</th>
+										</tr>
+									</thead>
+									<tbody class="text-center">
+										<tr>
+											<td>2.000</td>
+											<td>900.000</td>
+										</tr><tr>
+											<td>5.000</td>
+											<td>1.200.000</td>
+										</tr><tr>
+											<td>10.000</td>
+											<td>1.500.000</td>
+										</tr>
+									</tbody>
+								</table>
+								<footer>
+									<b>Untuk informasi pemesanan silahkan menghubungi FAHMISIDIK : 0852 8881 3963.</b><br>
+									<b>Alamat jl. H ipin no 73 pondok labu jakarta selatan.</b>
+                                </footer>
                             </div>
-                            
-                            <div class="col-md-6 col-sm-6 mb-sm-50 mb-xs-30">                                
-								* Jumlah Cetak Brosur 1000 = Harga Rp  800.ooo<br>
-								* Jumlah Cetak Brosur 2000 = Harga Rp  450.000/1000<br>
-								* Jumlah Cetak Brosur 3000 = Harga Rp  400.000/1000
+                            <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">                                
+								<table class="table table-striped table-bordered">
+									<thead>
+										<tr>
+											<th colspan="3" class="text-center" bgcolor="#FFD700"><b>Bahan Stiker Chromo, cetak fullcolour, tanpa UV varnish,
+												kotak ukuran 14 x 8 cm</b></th>
+										</tr>
+										<tr>
+											<th class="text-center">Qty/PCS</th>
+											<th class="text-center">Rp</th>
+										</tr>
+									</thead>
+									<tbody class="text-center">
+										<tr>
+											<td>2.000</td>
+											<td>1.200.000</td>
+										</tr><tr>
+											<td>5.000</td>
+											<td>1.500.000</td>
+										</tr><tr>
+											<td>10.000</td>
+											<td>2.100.000</td>
+										</tr>
+									</tbody>
+								</table>
+								<footer>
+									*NB Kami Juga Menerima ukuran lain sesuai dengan pesanan.
+								</footer>
 							</div>
                             
-                            <div class="col-md-2 col-sm-6 mb-sm-50 mb-xs-30">
-                              
+                            <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
+								<table class="table table-striped table-bordered">
+									<thead>
+										<tr>
+											<th colspan="3" class="text-center" bgcolor="#FFD700"><b>Bahan Stiker Chromo, cetak Fullcolour, tanpa UV varnish,
+											Model oval ukuran 6 x 3.6 cm </b></th>
+										</tr>
+										<tr>
+											<th class="text-center">Qty/PCS</th>
+											<th class="text-center">Rp</th>
+										</tr>
+									</thead>
+									<tbody class="text-center">
+										<tr>
+											<td>2.000</td>
+											<td>1.000.000</td>
+										</tr><tr>
+											<td>5.000</td>
+											<td>1.700.000</td>
+										</tr><tr>
+											<td>10.000</td>
+											<td>2.100.000</td>
+										</tr>
+									</tbody>
+								</table>
                             </div>
                             
                         </div>
@@ -49,14 +111,14 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-1.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/team/sbulat.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
                                         <h4 class="font-alt normal">Hello & Welcome!</h4>
                                         
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&nbsp;iaculis diam. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963.
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -71,11 +133,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Thomas Rhythm 
+                                        Stiker Bulat
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Art Director
+                                        FAHMISIDIK
                                     </div>
                                     
                                 </div>
@@ -90,14 +152,14 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-2.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/team/s2.png') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
                                         <h4 class="font-alt normal">Nice to meet!</h4>
                                         
                                         <p>
-                                            Curabitur augue, nec finibus mauris pretium eu. Duis placerat ex gravida nibh tristique porta.
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963.
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -112,11 +174,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Marta Laning
+                                       Kotak
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Web engineer
+                                        FAHMISIDIK
                                     </div>
                                     
                                 </div>
@@ -131,14 +193,14 @@
                                 
                                 <div class="team-item-image">
                                     
-                                    <img src="<?php echo base_url('assets/images/team/team-3.jpg') ?>" alt="" />
+                                    <img src="<?php echo base_url('assets/images/team/soval.jpg') ?>" alt="" />
                                     
                                     <div class="team-item-detail">
                                         
                                         <h4 class="font-alt normal">Whats Up!</h4>
                                         
                                         <p>
-                                            Adipiscing elit curabitur eu&nbsp;adipiscing lacus eu&nbsp;adipiscing lacus, a&nbsp;iaculis diam. 
+                                            Untuk informasi pemesanan silahkan menghubungi kontak kami yang di bawah ini : 0852 8881 3963. 
                                         </p>
                                         
                                         <div class="team-social-links">
@@ -153,11 +215,11 @@
                                 <div class="team-item-descr font-alt">
                                     
                                     <div class="team-item-name">
-                                        Steve ANDERS
+                                        Oval
                                     </div>
                                     
                                     <div class="team-item-role">
-                                        Developer
+                                        FAHMISIDIK
                                     </div>
                                     
                                 </div>

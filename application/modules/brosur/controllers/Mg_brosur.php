@@ -62,4 +62,9 @@ class Mg_brosur extends UserController
     $data['content'] = 'brosur/xbanner_v';
     $this->templates->get_main_templates($data);
   }
+  public function kado()
+  {
+    $data['content'] = 'brosur/kkado_v';
+    $this->templates->get_main_templates($data);
+  }
 }
